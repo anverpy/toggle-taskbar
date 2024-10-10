@@ -1,0 +1,15 @@
+C:\Users\andv\mi-dev\c#\toggle-taskbar\bin\Debug\net8.0\toggle-taskbar.exe
+C:\Users\andv\mi-dev\c#\toggle-taskbar\bin\Debug\net8.0\toggle-taskbar.deps.json
+C:\Users\andv\mi-dev\c#\toggle-taskbar\bin\Debug\net8.0\toggle-taskbar.runtimeconfig.json
+C:\Users\andv\mi-dev\c#\toggle-taskbar\bin\Debug\net8.0\toggle-taskbar.dll
+C:\Users\andv\mi-dev\c#\toggle-taskbar\bin\Debug\net8.0\toggle-taskbar.pdb
+C:\Users\andv\mi-dev\c#\toggle-taskbar\obj\Debug\net8.0\toggle-taskbar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andv\mi-dev\c#\toggle-taskbar\obj\Debug\net8.0\toggle-taskbar.AssemblyInfoInputs.cache
+C:\Users\andv\mi-dev\c#\toggle-taskbar\obj\Debug\net8.0\toggle-taskbar.AssemblyInfo.cs
+C:\Users\andv\mi-dev\c#\toggle-taskbar\obj\Debug\net8.0\toggle-taskbar.csproj.CoreCompileInputs.cache
+C:\Users\andv\mi-dev\c#\toggle-taskbar\obj\Debug\net8.0\toggle-taskbar.sourcelink.json
+C:\Users\andv\mi-dev\c#\toggle-taskbar\obj\Debug\net8.0\toggle-taskbar.dll
+C:\Users\andv\mi-dev\c#\toggle-taskbar\obj\Debug\net8.0\refint\toggle-taskbar.dll
+C:\Users\andv\mi-dev\c#\toggle-taskbar\obj\Debug\net8.0\toggle-taskbar.pdb
+C:\Users\andv\mi-dev\c#\toggle-taskbar\obj\Debug\net8.0\toggle-taskbar.genruntimeconfig.cache
+C:\Users\andv\mi-dev\c#\toggle-taskbar\obj\Debug\net8.0\ref\toggle-taskbar.dll
